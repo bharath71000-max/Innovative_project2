@@ -1,0 +1,5 @@
+{
+  "name": "FocusFlow: Daily Task Scheduler",
+  "description": "An app to create daily task schedules, set reminders with alarms, get motivated with AI-generated quotes, and celebrate task completion with a reward system to help you stay focused and disciplined.",
+  "requestFramePermissions": []
+}
